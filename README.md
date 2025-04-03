@@ -1,2 +1,2 @@
 # Hokubafudos
-Minecraft Modpack version controll and auto-update
+Minecraft modded world versions for backup and sharing
